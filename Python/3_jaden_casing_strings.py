@@ -27,7 +27,7 @@ def to_jaden_case(string):
 
 # Test
 
-some_string = "hello, i have cat called chiquito. he likes eating fried chicken"
+some_string = "hello, i a have cat called chiquito. he likes eating fried chicken"
 
 resut = to_jaden_case(some_string)
 
